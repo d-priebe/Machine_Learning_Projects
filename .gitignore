@@ -1,2 +1,3 @@
-Projects/data_gen/authetication/
+Projects/data_gen/authentication/
+*.egg-info/
 

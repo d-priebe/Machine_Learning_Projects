@@ -1,6 +1,6 @@
 from scrapers.openai_scraper import GPTScraper
 from scrapers.web_scraper import scrape_website
-from utils.utily_funcs import subset_hyperlinks
+from Projects.data_gen.utils.utility_funcs import subset_hyperlinks
 from pathlib import Path
 from io import StringIO
 import pandas as pd

@@ -22,5 +22,6 @@ def subset_hyperlinks(df, hyper_links):
 
 
 def open_file(filepath):
+        "Opens & reads a txt file. "
         with open(filepath, 'r', encoding='utf-8') as infile:
             return infile.read()
